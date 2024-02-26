@@ -1,0 +1,10 @@
+.sliderContainer {
+    display: flex;
+    align-items: center;
+    margin-right: 0.5em;
+}
+
+.sliderLabel {
+    margin-left: 0.5em;
+    width: 2em;
+}

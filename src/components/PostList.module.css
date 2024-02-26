@@ -1,0 +1,29 @@
+.postList {
+    list-style: none;
+    padding: 0;
+}
+
+.toolbar {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 20px;
+}
+
+.postItem {
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.postTitle {
+    text-align: left;
+    margin: 0 0 10px 0;
+    color: #333;
+}
+
+.postBody {
+    text-align: left;
+    margin: 0;
+    color: #666;
+}
